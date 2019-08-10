@@ -2,7 +2,7 @@
 Anagram Solver
 
 install python and run the script with:
-python anagramsolver.py <anagram> <path to wordslist>
+python anagramsolver.py <soal anagram> <path to wordslist>
 
 wordslist bisa dicari di google, atau bisa menggunakan defaultnya
 
@@ -13,3 +13,5 @@ output:
 ["mahasiswa"]
 
 happy solving
+
+NOTE: hanya bisa untuk anagram 1 kata
